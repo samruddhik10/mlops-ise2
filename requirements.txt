@@ -1,3 +1,7 @@
 Flask
 scikit-learn
 pytest
+mlflow
+pandas
+scipy
+matplotlib
